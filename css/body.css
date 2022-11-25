@@ -1,0 +1,3 @@
+section>.container-fluid>.grid>.row>.col:hover {
+    box-shadow: 2px 2px 2px 2px gray;
+}

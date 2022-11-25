@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(0deg,#84c980, #bfeabd);
+}
+.container {
+    display: block;
+    justify-content: center;
+    font-family: 'Bitter', serif;
+    padding: 50px 100px 50px 100px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+.date {
+    color: rgb(151, 150, 150);
+    font-size: 1rem;
+    padding-bottom: 20px;
+}
+.title-troko {
+    color: rgb(102, 101, 101);
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding-bottom: 20px;
+}
+.about-troko {
+    color: rgb(47, 46, 46);
+    font-size: 1.5rem;
+    padding-bottom: 40px;
+    font-family: 'Sen', sans-serif;
+}
+.about-trokojewelry {
+    color: black;
+    font-size: 1.2rem;
+    padding-bottom: 40px;
+    font-family: 'Sen', sans-serif;
+}
+ img {
+    
+    width: 40%;
+    height: 40%;
+    padding-bottom: 40px;
+    /* margin: 0 300px */
+    
+}
+/* .imagehover {
+    transition: all .7s ease-in-out;
+}
+.imagehover:hover {
+    transform: scale(1.1);
+} */
+img  {
+    overflow: hidden;
+}

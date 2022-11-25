@@ -1,0 +1,82 @@
+
+/*css for footer*/
+
+.container-fluid>.row>.col>h2 {
+    color: rgb(60, 177, 111);
+}
+
+.container-fluid>.row>.col>h2:hover {
+    color: rgb(203, 243, 190);
+}
+
+.container-fluid>.row>.col>.text {
+    color: rgb(67, 117, 89);
+}
+
+.container-fluid>.row>.col>.text:hover {
+    color: rgb(189, 223, 164);
+    text-shadow: 2px 2px 8px white;
+}
+
+.container-fluid>.row>.col>i {
+    color: #fff;
+}
+
+.container-fluid>.row>.col>i:hover {
+    color: rgb(171, 235, 174);
+    font-size: xx-large;
+}
+
+
+/*for button size in section: for more items*/
+
+/* section>.container-fluid>.grid>.row>.col {
+    background: white;
+    border: 1px solid black;
+    text-align: center;
+}
+
+section>.container-fluid>.grid>.row>.col>.card {
+    outline: none;
+    border: none;
+}
+
+section>.container-fluid>.grid>.row>.col>.card>i {
+    color: #0076ff;
+    font-size: xx-large;
+}
+
+section>.container-fluid>.grid>.row>.col>.card>.card-text {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: #0076ff;
+    font-weight: bold;
+}
+
+section>.container-fluid>.grid>.row>.col>.card>.card-btn {
+    outline: none;
+    border: #0076ff;
+    background: #0076ff;
+    border-radius: 20px;
+    height: 30px;
+    color: white;
+}
+ */
+
+/*css for drop in section */
+
+/* section>.container-fluid>.grid>.row>.col>.dropdown-menu {
+    font-size: large;
+    text-align: center;
+    color: white;
+}
+
+section>.container-fluid>.grid>.row>.col>.dropdown-menu>.dropdown-item {
+    color: white;
+}
+
+section>.container-fluid>.grid>.row>.col>.dropdown-menu>.dropdown-item:hover {
+    background: white;
+    color: #0076ff;
+} */
